@@ -1,1 +1,2 @@
-# AMW_BasicsOfPrograming_Lab
+# Akademia Marynarki Wojennej
+# Labolatoria z przedmiotu Podstawy Programowania
