@@ -1,2 +1,2 @@
 # Akademia Marynarki Wojennej
-# Labolatoria z przedmiotu Podstawy Programowania
+# Labolatoria z przedmiotu Podstawy Programowania (205IC)
