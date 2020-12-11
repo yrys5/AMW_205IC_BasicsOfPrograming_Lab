@@ -1,4 +1,4 @@
-# Akademia Marynarki Wojnnej
+# Akademia Marynarki Wojennej
 ## Laboratoria z przedmiotu Podstawy Programowania (205IC)
 
 1. Przed przystąpieniem do pracy nad zadaniem utwórz dwa swoje brancha z gałęzi main o nazwach:
